@@ -1,6 +1,5 @@
 import cv2
 from pynput.keyboard import Key, Controller
-import
 
 keyboard = Controller()
 keyboard.press("A")
